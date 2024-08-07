@@ -1,5 +1,6 @@
 <template>
   <div class="">
+    <nuxt-link class="btn btn-primary" to="/test">Test</nuxt-link>
     <div class="row mb-3 d-sm-block d-none">
       <div class="col-12">
         <!-- start of banner -->
