@@ -1,6 +1,5 @@
 <template>
   <div class="">
-    <base-button size="md">ثبت نام کاربر</base-button>
     <div class="row mb-3 d-sm-block d-none">
       <div class="col-12">
         <!-- start of banner -->
